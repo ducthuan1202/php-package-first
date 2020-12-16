@@ -8,6 +8,6 @@
         }
     ],
     "autoload": {
-        "psr-4": {"hotro247mienphi\\helloworld": "src/"}
+        "psr-4": {"hotro247mienphi\\helloworld\\": "src/"}
     }
 }
