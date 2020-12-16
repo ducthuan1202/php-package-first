@@ -3,11 +3,13 @@
     "description": "tao ra 01 cau chao",    
     "authors": [
         {
-            "name": "hotro",
+            "name": "hotro247mienphi",
             "email": "hotro247mienphi@gmail.com"
         }
     ],
     "autoload": {
-        "psr-4": {"hotro247mienphi\\helloworld\\": "src/"}
+        "psr-4": {
+            "hotro247mienphi\\helloworld\\": "src/"
+        }
     }
 }

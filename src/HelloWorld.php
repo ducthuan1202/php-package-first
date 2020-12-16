@@ -1,12 +1,9 @@
-<?php 
-
+<?php
 namespace hotro247mienphi\helloworld;
 
-class HelloWorld{
+class HelloWorld {
 
-    public function sayHi($name){
-        
+    public function sayHi($name) {        
         return "Hi, $name";
     }
-
 }
