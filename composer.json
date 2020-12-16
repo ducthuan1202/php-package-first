@@ -1,0 +1,16 @@
+{
+    "name": "hotro247mienphi/hello-world",
+    "description": "tao ra 01 cau chao",
+    "type": "composer-plugin",
+    "license": "MIT",
+    "authors": [
+        {
+            "name": "hotro",
+            "email": "hotro247mienphi@gmail.com"
+        }
+    ],
+    "autoload": {
+        "psr-4": {"hotro247mienphi\\helloworld": "src/"}
+    },
+    "require": {}
+}
